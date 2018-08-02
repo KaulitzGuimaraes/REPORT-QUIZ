@@ -38,7 +38,7 @@ void read_types_count (char* type[], int** count, long amount,FILE* file){
     
 }
 void write_data_file(dataset ds){
-    FILE *file = fopen("/Users/Kaulitz/Downloads/km/km/Search report.txt", "w");
+    FILE *file = fopen("Search report.txt", "w");
     if (file == NULL){
         printf("File can't be open\n");
         
