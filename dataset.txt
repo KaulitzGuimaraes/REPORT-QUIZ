@@ -1,0 +1,7 @@
+5
+gender,age_range,weight,musical_taste,favorite_food
+0,2,70.0,2,2
+1,0,45.0,1,0
+2,1,89.4,2,0
+0,0,32.7,0,0
+1,1,61.9,1,1

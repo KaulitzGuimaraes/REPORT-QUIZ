@@ -1,0 +1,22 @@
+----------  Search Report ---------- 
+
+
+=====================================
+Weight mean : 59.800000
+=====================================
+Number of female : 2
+Number of male : 2
+Number of other : 1
+=====================================
+Number of young : 2
+Number of adult : 2
+Number of elder : 1
+=====================================
+Number of rock : 1
+Number of pop : 2
+Number of gospel : 2
+=====================================
+Number of junk : 3
+Number of south : 1
+Number of comfort : 1
+=====================================
