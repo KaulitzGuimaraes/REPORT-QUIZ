@@ -21,7 +21,7 @@
 int main(int argc, char** argv) {
     
     dataset ds;
-     FILE *dataset_file = read_file("/Users/Kaulitz/Downloads/km/km/dataset.txt");
+     FILE *dataset_file = read_file("dataset.txt");
     read_sample(&ds,dataset_file);
     print_data_set(ds);
      write_file(ds);
